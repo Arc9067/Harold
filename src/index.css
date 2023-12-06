@@ -1,0 +1,6 @@
+@import url("https://fonts.cdnfonts.com/css/good-game");
+@import url("https://fonts.cdnfonts.com/css/roboto");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
